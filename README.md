@@ -1,13 +1,13 @@
  <h1 align="center"> 👋Hey there! I'm Arti Kumari </h1>
  
  
- **🎯Aspiring Data Analyst | AI/ML Developer**
-   📩 Reach me at: **artijha2811@gmail.com**
-   🧍 Pronouns: **She/Her**  
+- **🎯Aspiring Data Analyst | AI/ML Developer**
+- 📩 Reach me at: **artijha2811@gmail.com**
+- 🧍 Pronouns: **She/Her**  
   
 ---
 
-##  About Me
+## ✨ About Me
 
 - I'm currently working on **Machine Learning** and **Deep Learning** projects.
 - Experienced in building **Dashboards**, **LLM-integrated apps**, and **multimodal chatbots**.
@@ -34,6 +34,8 @@
 |--------|------------|-------------|------|
 | **Blinkit Sales Analytics Dashboard** | `Power BI`, `Excel` | A Power BI dashboard to analyze sales, customer satisfaction, and inventory distribution across different regions. | [🔗 Project Link](https://github.com/ArtiKumari28/Blinkit-Sales-Analytics-Dashboard) |
 | **Pizza Sales Dashboard** | `Power BI`, `Excel` | A performance report of pizza sales highlighting peak times, top items, and revenue drivers. | [🔗 Project Link](https://github.com/ArtiKumari28/Pizza-Sales-Analysis-Dashboard) |
+| **Customer Churn Prediction** | `Power BI`, `SQL`, `ML` | Built an end-to-end churn analysis system to identify potential customer dropouts and uncover business risks to deliver data-driven insights and predictive analytics. | [🔗 Project Link]
+
 
 ---
 
@@ -57,7 +59,7 @@
 `OpenAI GPT` • `LangChain` • `Hugging Face` • `Google Gemini`
 
 ### 🚀 App Development & Deployment
-`Dart` • `Flutter` • `Firebase`
+`Dart`(https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) • `Flutter` • `Firebase`
 
 ---
 
