@@ -1,10 +1,10 @@
- <h1 align="center">Hey there! I'm Arti Kumari 👋</h1>
+ <h1 align="center"> 👋Hey there! I'm Arti Kumari </h1>
  
- <p align="center">
-  🎯<em>Aspiring Data Analyst | AI/ML Developer</em><br/>
-  📩 Reach me at: <strong>artijha2811@gmail.com</strong><br/>
-  🧍 Pronouns: <strong>She/Her</strong>
-</p>  
+ 
+ **🎯Aspiring Data Analyst | AI/ML Developer**
+   📩 Reach me at: **artijha2811@gmail.com**
+   🧍 Pronouns: **She/Her**  
+  
 ---
 
 ##  About Me
@@ -41,7 +41,7 @@
 
 | Project | Tech Stack | Description | Link |
 |--------|------------|-------------|------|
-| **MindMate Mental Health App** | `Dart`, `Flutter`, `Firebase` | An app that offers LLM-based journaling, sentiment tracking, and chatbot support for mental health. | 
+| **MindMate Mental Health App** | `Dart`, `Flutter`, `Firebase` | An app that offers LLM-based journaling, sentiment tracking, and chatbot support for mental health. | [🔗 Project Link](https://github.com/siddhant-17-codes/mindmate)
 ---
 
 
@@ -74,7 +74,6 @@
 ## 📬 Connect with Me
 - [LinkedIn](https://linkedin.com/in/arti-kumari-b8636b304)
 - [GitHub](github.com/ArtiKumari28 )
-- 
 ---
 
 
