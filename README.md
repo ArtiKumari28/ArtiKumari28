@@ -59,7 +59,7 @@
 `OpenAI GPT` • `LangChain` • `Hugging Face` • `Google Gemini`
 
 ### 🚀 App Development & Deployment
-`Dart`(https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) • `Flutter` • `Firebase`
+`Dart` • `Flutter` • `Firebase`
 
 ---
 
